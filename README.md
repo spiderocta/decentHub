@@ -1,5 +1,5 @@
 ## About 
-decentralized Feedback Hub built on top of Ethereum blockchain Network 
+decentHub is a decentralized Feedback Hub that is built on top of Ethereum blockchain Network. It is designed to allow users and in particular, specific platform Insider users to provide feedback,  suggestions, and any kind of reports/feedback. 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
